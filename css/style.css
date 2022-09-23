@@ -55,7 +55,7 @@ section#redes-sociais>a>img {
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.4);
 }
 
-section#redes-sociais img:hover {
+section#redes-sociais img:hover  {
     border: 3px solid rgba(255, 255, 255, 0.3);
     transform: translate(-3px, -3px);
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);

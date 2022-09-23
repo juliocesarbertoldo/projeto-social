@@ -40,3 +40,23 @@ iframe#tela {
     width: 269px;
     height: 471px;
 }
+
+section#redes-sociais {
+    position: relative;
+    float: right;
+}
+
+ul {
+    padding: 10px;
+    list-style: none;
+}
+
+li {
+    padding: 10px;
+}
+
+img{
+    width: 55px;
+    border-radius: 50%;
+}
+

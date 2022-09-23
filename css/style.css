@@ -47,7 +47,7 @@ section#redes-sociais {
     float: right;
 }
 
-section#redes-sociais img {
+section#redes-sociais>a>img {
     width: 50px;
     margin: 10px;
     border-radius: 50%;
